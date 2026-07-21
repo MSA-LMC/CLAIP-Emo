@@ -16,12 +16,14 @@
 If you find this work helpful, please consider citing:
 ```bibtex
 
-@article{chen2025claip,
-  title={CLAIP-Emo: Parameter-Efficient Adaptation of Language-supervised models for In-the-Wild Audiovisual Emotion Recognition},
+@article{chen2026claip,
+  title={CLAIP-Emo: Parameter-Efficient Adaptation of Language-Supervised Models for In-the-Wild Audiovisual Emotion Recognition},
   author={Chen, Yin and Li, Jia and Hu, Jinpeng and Hu, Zhenzhen and Hong, Richang},
-  journal={arXiv preprint arXiv:2509.14527},
-  year={2025}
+  journal={IEEE Signal Processing Letters},
+  year={2026},
+  publisher={IEEE}
 }
+
 
 
 @ARTICLE{10663980,
