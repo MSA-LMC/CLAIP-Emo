@@ -2,6 +2,9 @@
 
 <img width="1024" height="411" alt="image" src="https://github.com/user-attachments/assets/b480b3b5-0baf-4f57-8989-75ab5d2472c7" />
 
+## News
+Accpted by [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/abstract/document/11609236)
+
 ## Main Results
 <img width="512" height="374" alt="image" src="https://github.com/user-attachments/assets/a091da1d-ebc6-4579-a52b-d0e217af213d" />
 
