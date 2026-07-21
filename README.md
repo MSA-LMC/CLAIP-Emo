@@ -28,7 +28,6 @@ If you find this work helpful, please consider citing:
 }
 
 
-
 @ARTICLE{10663980,
   author={Chen, Yin and Li, Jia and Shan, Shiguang and Wang, Meng and Hong, Richang},
   journal={IEEE Transactions on Affective Computing}, 
