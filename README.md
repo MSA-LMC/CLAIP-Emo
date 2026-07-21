@@ -2,7 +2,7 @@
 
 <img width="1024" height="411" alt="image" src="https://github.com/user-attachments/assets/b480b3b5-0baf-4f57-8989-75ab5d2472c7" />
 
-## News
+## News [2026/07] 
 Accpted by [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/abstract/document/11609236)
 
 ## Main Results
