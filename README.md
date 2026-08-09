@@ -5,6 +5,10 @@
 ## News [2026/07] 
 Accpted by [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/abstract/document/11609236)
 
+**[2026.7.18]** 🎉🎉🚀🚀Our work [S2D](https://github.com/MSA-LMC/S2D/tree/main) was selected as the **2025 Best Paper Award** (the only one!), for **IEEE Transactions on Affective Computing**  by the IEEE Computer Society Publications Board.
+
+<img width="598" height="222" alt="image" src="https://github.com/user-attachments/assets/35775926-b750-428d-a9bf-893e64779941" />
+
 ## Main Results
 <img width="512" height="374" alt="image" src="https://github.com/user-attachments/assets/a091da1d-ebc6-4579-a52b-d0e217af213d" />
 
