@@ -34,26 +34,26 @@ If you find this work helpful, please consider citing:
   pages={2989-2993},
 
 
-@article{chen2025static,
-  title={Static for dynamic: Towards a deeper understanding of dynamic facial expressions using static expression data},
+@ARTICLE{11207542,
   author={Chen, Yin and Li, Jia and Zhang, Yu and Hu, Zhenzhen and Shan, Shiguang and Wang, Meng and Hong, Richang},
-  journal={IEEE Transactions on Affective Computing},
-  year={2025},
-  publisher={IEEE}
+  journal={IEEE Transactions on Affective Computing}, 
+  title={Static for Dynamic: Towards a Deeper Understanding of Dynamic Facial Expressions Using Static Expression Data}, 
+  year={2026},
+  volume={17},
+  number={1},
+  pages={438-451},
 }
 
 
-@article{chen2024static,
-  title={From static to dynamic: Adapting landmark-aware image models for facial expression recognition in videos},
+
+@ARTICLE{10663980,
   author={Chen, Yin and Li, Jia and Shan, Shiguang and Wang, Meng and Hong, Richang},
-  journal={IEEE Transactions on Affective Computing},
+  journal={IEEE Transactions on Affective Computing}, 
+  title={From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos}, 
+  year={2025},
   volume={16},
   number={2},
-  pages={624--638},
-  year={2024},
-  publisher={IEEE}
-}
-
+  pages={624-638}}
 
 ```
 
