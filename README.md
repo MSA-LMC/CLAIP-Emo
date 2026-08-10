@@ -23,33 +23,37 @@ Accpted by [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/abstract
 If you find this work helpful, please consider citing:
 ```bibtex
 
-@article{chen2026claip,
-  title={CLAIP-Emo: Parameter-Efficient Adaptation of Language-Supervised Models for In-the-Wild Audiovisual Emotion Recognition},
+
+@ARTICLE{11609236,
   author={Chen, Yin and Li, Jia and Hu, Jinpeng and Hu, Zhenzhen and Hong, Richang},
-  journal={IEEE Signal Processing Letters},
+  journal={IEEE Signal Processing Letters}, 
+  title={CLAIP-Emo: Parameter-Efficient Adaptation of Language-Supervised Models for In-the-Wild Audiovisual Emotion Recognition}, 
   year={2026},
+  volume={33},
+  number={},
+  pages={2989-2993},
+
+
+@article{chen2025static,
+  title={Static for dynamic: Towards a deeper understanding of dynamic facial expressions using static expression data},
+  author={Chen, Yin and Li, Jia and Zhang, Yu and Hu, Zhenzhen and Shan, Shiguang and Wang, Meng and Hong, Richang},
+  journal={IEEE Transactions on Affective Computing},
+  year={2025},
   publisher={IEEE}
 }
 
 
-@ARTICLE{10663980,
-  author={Chen, Yin and Li, Jia and Shan, Shiguang and Wang, Meng and Hong, Richang},
-  journal={IEEE Transactions on Affective Computing}, 
-  title={From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-15},
-  keywords={Adaptation models;Videos;Computational modeling;Feature extraction;Transformers;Task analysis;Face recognition;Dynamic facial expression recognition;emotion ambiguity;model adaptation;transfer learning},
-  doi={10.1109/TAFFC.2024.3453443}}
-
-
 @article{chen2024static,
-  title={Static for Dynamic: Towards a Deeper Understanding of Dynamic Facial Expressions Using Static Expression Data},
-  author={Chen, Yin and Li, Jia and Zhang, Yu and Hu, Zhenzhen and Shan, Shiguang and Wang, Meng and Hong, Richang},
-  journal={IEEE Transactions on Affective Computing}, 
-  doi={10.1109/TAFFC.2025.3623135}}
+  title={From static to dynamic: Adapting landmark-aware image models for facial expression recognition in videos},
+  author={Chen, Yin and Li, Jia and Shan, Shiguang and Wang, Meng and Hong, Richang},
+  journal={IEEE Transactions on Affective Computing},
+  volume={16},
+  number={2},
+  pages={624--638},
+  year={2024},
+  publisher={IEEE}
 }
+
 
 ```
 
