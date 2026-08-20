@@ -2,8 +2,12 @@
 
 <img width="1024" height="411" alt="image" src="https://github.com/user-attachments/assets/b480b3b5-0baf-4f57-8989-75ab5d2472c7" />
 
-## News [2026/07] 
-Accpted by [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/abstract/document/11609236)
+## News 
+
+**[2026.08.12]** 🎉🎉Our new paper [SSM](https://github.com/MSA-LMC/SSM) has been accepted by **IEEE Transactions on Affective Computing**! A novel Structured Semantic Mapping framework for bidirectional learning between Facial Action Units and Facial Expressions under heterogeneous datasets.
+
+**[2026/07]** CLAIP-Emo is accepted by [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/abstract/document/11609236)
+
 
 **[2026.7.18]** 🎉🎉🚀🚀Our earlier work [S2D](https://github.com/MSA-LMC/S2D/tree/main) was selected as the **2025 Best Paper Award** (the only one!), for **IEEE Transactions on Affective Computing**  by the IEEE Computer Society Publications Board.
 
