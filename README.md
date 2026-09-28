@@ -23,6 +23,9 @@
 
 <img width="595" height="300" alt="image" src="https://github.com/user-attachments/assets/70a5531b-595f-49ab-938d-b2405d2947d7" />
 
+## Model Weights
+We uploaded the model weights on [hugging face](https://huggingface.co/cyinen/CLAIP-Emo/tree/main )
+
 ## ✏️ Citation
 
 If you find this work helpful, please consider citing:
