@@ -5,6 +5,7 @@
 ## News 
 
 **[2026.09.23]** The trained model weights of CLAIP-Emo are released here: https://huggingface.co/cyinen/CLAIP-Emo/tree/main ,welcome to have a try :)
+
 **[2026.08.12]** 🎉🎉Our new paper [SSM](https://github.com/MSA-LMC/SSM) has been accepted by **IEEE Transactions on Affective Computing**! A novel Structured Semantic Mapping framework for bidirectional learning between Facial Action Units and Facial Expressions under heterogeneous datasets.
 
 **[2026/07]** CLAIP-Emo is accepted by [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/abstract/document/11609236)
